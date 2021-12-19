@@ -1,6 +1,7 @@
 # API-example
 
-## EN
+## EN 
+* the list of packages required for the application to work is in the file "requirements.txt ", install them using "pip install package_name"
 * run the main script via "python3 main.py"
 * follow the specified link in the log, for example http://0.0.0.0:8000
 * to view the documentation, go to "some_links/docs", for example http://0.0.0.0:8000/docs
@@ -22,6 +23,7 @@
 * to change the database, edit the "sql.db" file
 
 ## RU
+* список необходимых для работы приложения пакетов находится в файле "requirements.txt", установите их с помощью "pip install package_name"
 * запустите основной скрипт через "python3 main.py "
 * перейдите по указанной ссылке в журнале, например http://0.0.0.0:8000
 * чтобы просмотреть документацию, перейдите в раздел "some_links/docs", например http://0.0.0.0:8000/docs
